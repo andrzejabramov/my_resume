@@ -55,9 +55,40 @@
 ![](img/python_analitic.jpg)  
 ![](img/SQL_DB.jpeg)
 
+## 📚 Обучение и сертификаты
+
+| №   | Название документа                                                               | Организация                         | Ссылка на скан                                                                                                           |
+| --- | -------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 1   | Удостоверение о повышении квалификации по госпрограмме (Data Analytics & Python) | Томский государственный университет | [Смотреть скан](https://raw.githubusercontent.com/andrzejabramov/my_resume/main/img/Andrzej_DataAnaliticPython.jpg)      |
+| 2   | Сертификат о прохождении курса «Backend-разработка на Python»                    | SkillFactory                        | [Смотреть скан](https://raw.githubusercontent.com/andrzejabramov/my_resume/main/img/Andrzej_Sertificat_Scillfactory.jpg) |
+| 3   | Сертификат преподавателя (курс Антона Шумейко)                                   | Частная школа                       | [Смотреть скан](https://raw.githubusercontent.com/andrzejabramov/my_resume/main/img/Backend_Python-0.jpg)                |
+| 4   | Сертификат по архитектуре и работе с AI-сервисами                                | Selectel                            | [Смотреть скан](https://raw.githubusercontent.com/andrzejabramov/my_resume/main/img/selectel_ai_Abramov.jpg)             |
+| 5   | Свидетельство о прохождении интенсива по PostgreSQL                              | Slurm                               | [Смотреть скан](https://raw.githubusercontent.com/andrzejabramov/my_resume/main/img/Slurm_Postdresql.png)                |
+| 6   | Сертификат по UX/UI и дизайну интерфейсов                                        | Yudaev School                       | [Смотреть скан](https://raw.githubusercontent.com/andrzejabramov/my_resume/main/img/Andrzej_disign_UdaevSchool.jpeg)     |
+| 7   | Сертификат по AI и машинному обучению                                            | Нетология                           | [Смотреть скан](https://raw.githubusercontent.com/andrzejabramov/my_resume/main/img/AI_sertificat.jpg)                   |
+| 8   | Сертификат «Тестирование мобильных и веб-приложений»                             | Нетология                           | [Смотреть скан](https://raw.githubusercontent.com/andrzejabramov/my_resume/main/img/app_tester.jpg)                      |
+| 9   | Сертификат по работе в Figma                                                     | Нетология                           | [Смотреть скан](https://raw.githubusercontent.com/andrzejabramov/my_resume/main/img/certificateFigma.jpg)                |
+| 10  | Сертификат по UX/UI-исследованиям                                                | Нетология                           | [Смотреть скан](https://raw.githubusercontent.com/andrzejabramov/my_resume/main/img/certificateUX_UI.jpg)                |
+| 11  | Сертификат по визуализации данных                                                | Нетология                           | [Смотреть скан](https://raw.githubusercontent.com/andrzejabramov/my_resume/main/img/DataVisualization.jpg)               |
+| 12  | Сертификат по информационной безопасности                                        | Нетология                           | [Смотреть скан](https://raw.githubusercontent.com/andrzejabramov/my_resume/main/img/informationSecurity.jpg)             |
+| 13  | Сертификат по Python для аналитики данных                                        | Нетология                           | [Смотреть скан](https://raw.githubusercontent.com/andrzejabramov/my_resume/main/img/python_analitic.jpg)                 |
+| 14  | Сертификат по SQL и работе с базами данных                                       | Нетология                           | [Смотреть скан](https://raw.githubusercontent.com/andrzejabramov/my_resume/main/img/SQL_DB.jpeg)                         |
+
 **Обязанности и достижения:**
 
-- Интеграция по API с существующими в то время системами оплаты для такси Элекснет, РЦК пэй, Deltapay, Forward mobile, life pay, qiwi, skysend, payberry, alltime на стеке perl5+mysql (система до сих пор работает и дает небольшую монетизацию). Позже интеграция с банками - эквайерами, интеграции с API по СБП c сераисами 2can, АльфаБанка, Тбанка (Тинькофф), Банка Точка.
+- Интеграция по API с существующими в то время системами оплаты для такси:
+
+1. Элекснет,
+2. РЦК пэй,
+3. Deltapay,
+4. Forward mobile,
+5. life pay,
+6. qiwi,
+7. skysend,
+8. payberry,
+9. alltime  
+   на стеке perl5+mysql (система до сих пор работает и дает небольшую монетизацию). Позже интеграция с банками - эквайерами, интеграции с API по СБП c сераисами 2can, АльфаБанка, Тбанка (Тинькофф), Банка Точка.
+
 - Полный цикл разработки: системный анализ → архитектура → ТЗ → разработка → тестирование (UX/UI) → сопровождение и поддержка.
 - Работа с ИИ-агентами (Cline, Claud Code) в связке с RouterAI и китайскими моделями; формирование RAG-базы знаний для ускорения подбора паттернов и библиотек.
 - Администрирование 1С (клиент-сервер, Linux + Postgres) на Яндекс.Облаке и Selectel, включая автоархивирование, обновления и миграцию между зонами.
@@ -68,7 +99,7 @@
 
 ## 🛠 Ключевые проекты и измеримые результаты
 
-### Интеграция с платёжными сервисами (Альфа-Банк, Тинькофф)
+### Интеграция с платёжными сервисами (Альфа-Банк, Тинькофф, СберБанк, Банк Точка)
 
 **Стек:** Python + Postgres (репликация, ORM, хранимые процедуры), связка Postgres с ClickHouse для аналитических расчётов.  
 **Роль:** системный аналитик, архитектор, разработчик.  
@@ -145,32 +176,32 @@
 
 - **GitHub:** [https://github.com/andrzejabramov?tab=repositories](https://github.com/andrzejabramov?tab=repositories) (85 публичных репозиториев).
 
-[Симлинк в администрировании 1с](https://github.com/andrzejabramov/admin1C/tree/main)
+[Симлинк в администрировании 1с](https://github.com/andrzejabramov/admin1C/tree/main)  
 [Описание проекта](https://github.com/andrzejabramov/admin1C/blob/main/docs/cmd.md)
 
 [Команда](https://github.com/andrzejabramov/command_portfolio)
 
-Прототипы ии агентов для действующих клиентов:
-[ai agent kbm](https://github.com/andrzejabramov/ai-kbm)
-[ai agent dilab](https://github.com/andrzejabramov/ai-dilab/tree/main/docs)
-[платежный сервис](https://github.com/andrzejabramov/pay_service_ai/tree/main)
-[ai taxi](https://github.com/andrzejabramov/ai-taxi/tree/main)
-[ai rielt](https://github.com/andrzejabramov/ai_flat_price)
+Прототипы ии агентов для действующих клиентов:  
+[ai agent kbm](https://github.com/andrzejabramov/ai-kbm)  
+[ai agent dilab](https://github.com/andrzejabramov/ai-dilab/tree/main/docs)  
+[платежный сервис](https://github.com/andrzejabramov/pay_service_ai/tree/main)  
+[ai taxi](https://github.com/andrzejabramov/ai-taxi/tree/main)  
+[ai rielt](https://github.com/andrzejabramov/ai_flat_price)  
 [ai bookshop](https://github.com/andrzejabramov/ai_agent_bookshop)
 
-Репозитории с отдельными учебными проектами все репо https://github.com/andrzejabramov?page=2&tab=repositories:
-[системный анавлиз](https://github.com/andrzejabramov/prokachu-requirements)
-[дипломный проект skillfactory](https://github.com/andrzejabramov/silant)
-[workflow ai agent cline](img/workflow_cline.png)
+Репозитории с отдельными учебными проектами все репо https://github.com/andrzejabramov?page=2&tab=repositories:  
+[системный анавлиз](https://github.com/andrzejabramov/prokachu-requirements)  
+[дипломный проект skillfactory](https://github.com/andrzejabramov/silant)  
+[workflow ai agent cline](img/workflow_cline.png)  
 [settings cline](img/settings_cline.png)
 
-Проекты на gitlab:
+Проекты на gitlab:  
 [gitlab_all_projects](img/gitlab_all_projects.png)
 
 - **Платформы для медиа:** Шедеврум, Кандинский, NanoBanana, HeyGen (аватары).
 
 Реальный, но обезличенный проект для климента по анализу банковских выписок для банкротства:
-[bank](img/Financial_Dashboard.pdf)
+[bank](img/Financial_Dashboard.pdf)  
 [источник для дашборда](img/Dashboard_Anonymized.csv)
 
 ### [ссылки на все проекты](https://github.com/andrzejabramov/command_portfolio/blob/main/%20OUR_CODE.md)
