@@ -179,17 +179,17 @@
 https://github.com/andrzejabramov?page=2&tab=repositories:  
 [системный анавлиз](https://github.com/andrzejabramov/prokachu-requirements)  
 [дипломный проект skillfactory](https://github.com/andrzejabramov/silant)  
-[workflow ai agent cline](img/workflow_cline.png)  
-[settings cline](img/settings_cline.png)
+[workflow ai agent cline](https://raw.githubusercontent.com/andrzejabramov/my_resume/main/img/workflow_cline.png)
+[settings cline](https://raw.githubusercontent.com/andrzejabramov/my_resume/main/img/settings_cline.png)
 
 Проекты на gitlab:  
-[gitlab_all_projects](img/gitlab_all_projects.png)
+[gitlab_all_projects](https://raw.githubusercontent.com/andrzejabramov/my_resume/main/img/gitlab_all_projects.png)
 
 - **Платформы для медиа:** Шедеврум, Кандинский, NanoBanana, HeyGen (аватары).
 
 Реальный, но обезличенный проект для климента по анализу банковских выписок для банкротства:  
-[bank](img/Financial_Dashboard.pdf)  
-[источник для дашборда](img/Dashboard_Anonymized.csv)
+[bank](https://raw.githubusercontent.com/andrzejabramov/my_resume/main/img/Financial_Dashboard.pdf)  
+[источник для дашборда](https://raw.githubusercontent.com/andrzejabramov/my_resume/main/img/Dashboard_Anonymized.csv)
 
 ### [ссылки на все проекты](https://github.com/andrzejabramov/command_portfolio/blob/main/%20OUR_CODE.md)
 
