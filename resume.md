@@ -39,21 +39,21 @@
 
 **Роль:** разработчик, тимлид, системный аналитик  
 **Обучение**
-[удостоверение об обучении по госпрограмме на базе Томского Университета](img/Andrzej_DataAnaliticPython.jpg)
-[сертификат от skillfactory](img/Andrzej_Sertificat_Scillfactory.jpg)
-[сертификат преподавателя Антона Шумейко](img/Backend_Python-0.jpg)
-[](img/Backend_Python-1.jpg)
-[selectel](img/selectel_ai_Abramov.jpg)
-[Свидетельство slurm](img/Slurm_Postdresql.png)
-[сертификат Yudaev School дизайн](img/Andrzej_disign_UdaevSchool.jpeg)
-[сертификаты Нетология](img/AI_sertificat.jpg)
-[](img/app_tester.jpg)
-[](img/certificateFigma.jpg)
-[](img/certificateUX_UI.jpg)
-[](img/DataVisualization.jpg)
-[](img/informationSecurity.jpg)
-[](img/python_analitic.jpg)
-[](img/SQL_DB.jpeg)
+![удостоверение об обучении по госпрограмме на базе Томского Университета](img/Andrzej_DataAnaliticPython.jpg)  
+![сертификат от skillfactory](img/Andrzej_Sertificat_Scillfactory.jpg)  
+![сертификат преподавателя Антона Шумейко](img/Backend_Python-0.jpg)  
+![](img/Backend_Python-1.jpg)  
+![selectel](img/selectel_ai_Abramov.jpg)  
+![Свидетельство slurm](img/Slurm_Postdresql.png)  
+![сертификат Yudaev School дизайн](img/Andrzej_disign_UdaevSchool.jpeg)  
+![сертификаты Нетология](img/AI_sertificat.jpg)  
+![](img/app_tester.jpg)  
+![](img/certificateFigma.jpg)  
+![](img/certificateUX_UI.jpg)  
+![](img/DataVisualization.jpg)  
+![](img/informationSecurity.jpg)  
+![](img/python_analitic.jpg)  
+![](img/SQL_DB.jpeg)
 
 **Обязанности и достижения:**
 
