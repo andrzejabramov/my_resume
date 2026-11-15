@@ -174,7 +174,9 @@
 [ai rielt](https://github.com/andrzejabramov/ai_flat_price)  
 [ai bookshop](https://github.com/andrzejabramov/ai_agent_bookshop)
 
-Репозитории с отдельными учебными проектами все репо https://github.com/andrzejabramov?page=2&tab=repositories:  
+Репозитории с отдельными учебными проектами все репо:
+
+https://github.com/andrzejabramov?page=2&tab=repositories:  
 [системный анавлиз](https://github.com/andrzejabramov/prokachu-requirements)  
 [дипломный проект skillfactory](https://github.com/andrzejabramov/silant)  
 [workflow ai agent cline](img/workflow_cline.png)  
@@ -185,7 +187,7 @@
 
 - **Платформы для медиа:** Шедеврум, Кандинский, NanoBanana, HeyGen (аватары).
 
-Реальный, но обезличенный проект для климента по анализу банковских выписок для банкротства:
+Реальный, но обезличенный проект для климента по анализу банковских выписок для банкротства:  
 [bank](img/Financial_Dashboard.pdf)  
 [источник для дашборда](img/Dashboard_Anonymized.csv)
 
